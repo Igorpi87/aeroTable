@@ -1,0 +1,95 @@
+[
+  {
+    "except_days": "6, 7, 8, 9, 13, 14 февраля",
+    "arrival": "04:00",
+    "thread": {
+      "uid": "7303A",
+      "title": "аэропорт Шереметьево",
+      "number": "7303",
+      "short_title": "а/п Шереметьево",
+      "carrier": {
+        "code": 153,
+        "codes": { "icao": "QWE", "sirena": null, "iata": null },
+        "title": "Центральная пригородная пассажирская компания"
+      },
+      "transport_type": "suburban",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": "#FF7F44",
+        "code": "suburban",
+        "title": "Пригородный поезд"
+      },
+      "express_type": "aeroexpress"
+    },
+    "is_fuzzy": false,
+    "days": "ежедневно",
+    "stops": "без остановок",
+    "departure": "2017-02-27T00:05:00+03:00",
+    "terminal": "A",
+    "platform": "",
+    "status": "ARV",
+    "destination": "St-Petrsburg"
+  },
+  {
+    "except_days": "6, 7, 8, 9, 13, 14 февраля",
+    "arrival": "16:20",
+    "thread": {
+      "uid": "7304D",
+      "title": "аэропорт Шереметьево - Москва (Белорусский вокзал)",
+      "number": "7303",
+      "short_title": "а/п Шереметьево - Москва (Белорусский вокзал)",
+      "carrier": {
+        "code": 143,
+        "codes": { "icao": "ADW", "sirena": null, "iata": null },
+        "title": "Центральная пригородная пассажирская компания"
+      },
+      "transport_type": "suburban",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": "#FF7F44",
+        "code": "suburban",
+        "title": "Пригородный поезд"
+      },
+      "express_type": "aeroexpress"
+    },
+    "is_fuzzy": false,
+    "days": "ежедневно",
+    "stops": "без остановок",
+    "departure": "2017-02-27T00:05:00+03:00",
+    "terminal": "D",
+    "platform": "",
+    "status": "DEP",
+    "destination": "London"
+  },
+  {
+    "except_days": "6, 7, 8, 9, 13, 14 февраля",
+    "arrival": "13:20",
+    "thread": {
+      "uid": "7303C",
+      "title": "аэропорт Шереметьево - Москва (Белорусский вокзал)",
+      "number": "7303",
+      "short_title": "а/п Шереметьево - Москва (Белорусский вокзал)",
+      "carrier": {
+        "code": 143,
+        "codes": { "icao": "ADW", "sirena": null, "iata": null },
+        "title": "Центральная пригородная пассажирская компания"
+      },
+      "transport_type": "suburban",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": "#FF7F44",
+        "code": "suburban",
+        "title": "Пригородный поезд"
+      },
+      "express_type": "aeroexpress"
+    },
+    "is_fuzzy": false,
+    "days": "ежедневно",
+    "stops": "без остановок",
+    "departure": "2017-02-27T00:05:00+03:00",
+    "terminal": "С",
+    "platform": "",
+    "status": "DEL",
+    "destination": "Tver"
+  }
+]
