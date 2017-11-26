@@ -32,15 +32,15 @@
   },
   {
     "except_days": "6, 7, 8, 9, 13, 14 февраля",
-    "arrival": "16:20",
+    "arrival": "07:20",
     "thread": {
-      "uid": "7304D",
+      "uid": "345L",
       "title": "аэропорт Шереметьево - Москва (Белорусский вокзал)",
       "number": "7303",
       "short_title": "а/п Шереметьево - Москва (Белорусский вокзал)",
       "carrier": {
         "code": 143,
-        "codes": { "icao": "ADW", "sirena": null, "iata": null },
+        "codes": { "icao": "AED", "sirena": null, "iata": null },
         "title": "Центральная пригородная пассажирская компания"
       },
       "transport_type": "suburban",
@@ -63,9 +63,9 @@
   },
   {
     "except_days": "6, 7, 8, 9, 13, 14 февраля",
-    "arrival": "13:20",
+    "arrival": "07:55",
     "thread": {
-      "uid": "7303C",
+      "uid": "CV5T",
       "title": "аэропорт Шереметьево - Москва (Белорусский вокзал)",
       "number": "7303",
       "short_title": "а/п Шереметьево - Москва (Белорусский вокзал)",
@@ -88,6 +88,130 @@
     "stops": "без остановок",
     "departure": "2017-02-27T00:05:00+03:00",
     "terminal": "С",
+    "platform": "",
+    "status": "DEL",
+    "destination": "Tver"
+  },
+  {
+    "except_days": "6, 7, 8, 9, 13, 14 февраля",
+    "arrival": "10:00",
+    "thread": {
+      "uid": "Mp8U",
+      "title": "аэропорт Шереметьево",
+      "number": "7303",
+      "short_title": "а/п Шереметьево",
+      "carrier": {
+        "code": 153,
+        "codes": { "icao": "FGE", "sirena": null, "iata": null },
+        "title": "Центральная пригородная пассажирская компания"
+      },
+      "transport_type": "suburban",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": "#FF7F44",
+        "code": "suburban",
+        "title": "Пригородный поезд"
+      },
+      "express_type": "aeroexpress"
+    },
+    "is_fuzzy": false,
+    "days": "ежедневно",
+    "stops": "без остановок",
+    "departure": "2017-02-27T00:05:00+03:00",
+    "terminal": "A",
+    "platform": "",
+    "status": "DEP",
+    "destination": "Kiev"
+  },
+  {
+    "except_days": "6, 7, 8, 9, 13, 14 февраля",
+    "arrival": "10:10",
+    "thread": {
+      "uid": "R320E",
+      "title": "аэропорт Шереметьево",
+      "number": "7303",
+      "short_title": "а/п Шереметьево",
+      "carrier": {
+        "code": 153,
+        "codes": { "icao": "JKN", "sirena": null, "iata": null },
+        "title": "Центральная пригородная пассажирская компания"
+      },
+      "transport_type": "suburban",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": "#FF7F44",
+        "code": "suburban",
+        "title": "Пригородный поезд"
+      },
+      "express_type": "aeroexpress"
+    },
+    "is_fuzzy": false,
+    "days": "ежедневно",
+    "stops": "без остановок",
+    "departure": "2017-02-27T00:05:00+03:00",
+    "terminal": "A",
+    "platform": "",
+    "status": "ARV",
+    "destination": "Kazan"
+  },
+  {
+    "except_days": "6, 7, 8, 9, 13, 14 февраля",
+    "arrival": "11:00",
+    "thread": {
+      "uid": "67U",
+      "title": "аэропорт Шереметьево",
+      "number": "7303",
+      "short_title": "а/п Шереметьево",
+      "carrier": {
+        "code": 153,
+        "codes": { "icao": "VBG", "sirena": null, "iata": null },
+        "title": "Центральная пригородная пассажирская компания"
+      },
+      "transport_type": "suburban",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": "#FF7F44",
+        "code": "suburban",
+        "title": "Пригородный поезд"
+      },
+      "express_type": "aeroexpress"
+    },
+    "is_fuzzy": false,
+    "days": "ежедневно",
+    "stops": "без остановок",
+    "departure": "2017-02-27T00:05:00+03:00",
+    "terminal": "A",
+    "platform": "",
+    "status": "ARV",
+    "destination": "Podolsk     "
+  },
+  {
+    "except_days": "6, 7, 8, 9, 13, 14 февраля",
+    "arrival": "12:24",
+    "thread": {
+      "uid": "fg45",
+      "title": "аэропорт Шереметьево",
+      "number": "7303",
+      "short_title": "а/п Шереметьево",
+      "carrier": {
+        "code": 153,
+        "codes": { "icao": "MUH", "sirena": null, "iata": null },
+        "title": "Центральная пригородная пассажирская компания"
+      },
+      "transport_type": "suburban",
+      "vehicle": null,
+      "transport_subtype": {
+        "color": "#FF7F44",
+        "code": "suburban",
+        "title": "Пригородный поезд"
+      },
+      "express_type": "aeroexpress"
+    },
+    "is_fuzzy": false,
+    "days": "ежедневно",
+    "stops": "без остановок",
+    "departure": "2017-02-27T00:05:00+03:00",
+    "terminal": "A",
     "platform": "",
     "status": "DEL",
     "destination": "Tver"

@@ -7,6 +7,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="App container">
+        <h2>Информация о рейсах</h2>
         <FlightTable />
       </div>
     );
